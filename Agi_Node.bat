@@ -1,0 +1,1 @@
+"C:\Program Files\Agisoft\Metashape Pro\metashape.exe" --node --dispatch 141.56.5.166 --root \\Kp16\2020

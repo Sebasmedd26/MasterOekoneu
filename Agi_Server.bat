@@ -1,0 +1,1 @@
+"C:\Program Files\Agisoft\Metashape Pro\metashape.exe" --server --control 141.56.5.66 --dispatch 141.56.5.66
